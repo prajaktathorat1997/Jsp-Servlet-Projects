@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 25 23:45:18 IST 2024
+mongodb-driver-core-5.0.1.jar>central=
+mongodb-driver-core-5.0.1-sources.jar>central=
+mongodb-driver-core-5.0.1.pom>central=

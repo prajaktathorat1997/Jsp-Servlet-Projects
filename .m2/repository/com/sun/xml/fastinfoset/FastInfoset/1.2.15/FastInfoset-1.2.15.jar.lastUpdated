@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 15 01:07:05 IST 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1715715425870
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact com.sun.xml.fastinfoset\:FastInfoset\:jar\:1.2.15 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: maven.java.net
+http\://bits.netbeans.org/nexus/content/groups/netbeans/.error=Could not transfer artifact com.sun.xml.fastinfoset\:FastInfoset\:jar\:1.2.15 from/to netbeans (http\://bits.netbeans.org/nexus/content/groups/netbeans)\: No such host is known (bits.netbeans.org)
+@default-releases.java.net-http\://maven.java.net/content/repositories/releases/.lastUpdated=1715675623331
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1715675623463
+http\://maven.java.net/content/repositories/staging/.error=Could not transfer artifact com.sun.xml.fastinfoset\:FastInfoset\:jar\:1.2.15 from/to jvnet-nexus-staging (http\://maven.java.net/content/repositories/staging/)\: maven.java.net
+http\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact com.sun.xml.fastinfoset\:FastInfoset\:jar\:1.2.15 from/to releases.java.net (http\://maven.java.net/content/repositories/releases/)\: No such host is known (maven.java.net)
+@default-jvnet-nexus-staging-http\://maven.java.net/content/repositories/staging/.lastUpdated=1715675623440
+@default-netbeans-http\://bits.netbeans.org/nexus/content/groups/netbeans/.lastUpdated=1715675623452
+@default-shapshots.java.net-http\://maven.java.net/content/repositories/snapshots/.lastUpdated=1715675623344
+http\://maven.java.net/content/repositories/snapshots/.error=Could not transfer artifact com.sun.xml.fastinfoset\:FastInfoset\:jar\:1.2.15 from/to shapshots.java.net (http\://maven.java.net/content/repositories/snapshots/)\: maven.java.net

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 14 13:36:47 IST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1715674007514
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact antlr\:antlr\:jar\:javadoc\:2.7.7 from/to central (https\://repo.maven.apache.org/maven2)\: No such host is known (repo.maven.apache.org)

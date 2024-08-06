@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 21 17:06:51 IST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1716291411053
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:sources\:5.6.15.Final from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

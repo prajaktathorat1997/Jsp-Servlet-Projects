@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 05 12:50:29 IST 2024
+tomcat-annotations-api-9.0.83.jar>central=
+tomcat-annotations-api-9.0.83.pom>central=
+tomcat-annotations-api-9.0.83-sources.jar>central=

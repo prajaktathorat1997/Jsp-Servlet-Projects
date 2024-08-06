@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 19 00:02:16 IST 2024
+sonar-scanner-api-2.8.jar>central=
+sonar-scanner-api-2.8-sources.jar>central=
+sonar-scanner-api-2.8.pom>central=

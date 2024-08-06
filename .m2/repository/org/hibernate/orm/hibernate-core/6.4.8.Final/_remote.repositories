@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 23 22:38:36 IST 2024
+hibernate-core-6.4.8.Final.jar>central=
+hibernate-core-6.4.8.Final-sources.jar>central=
+hibernate-core-6.4.8.Final.pom>central=
